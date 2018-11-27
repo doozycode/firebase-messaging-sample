@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "funxtion-cms",
+    "funxtion-cms": "funxtion-cms"
+  }
+}
